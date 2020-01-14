@@ -21,6 +21,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   Intro: "https://ju-ezi.github.io/"
+  Condensation : "condensation"
   IoT:
     - What is IoT: "whatiot"
     - Why IoT: "whyiot"
